@@ -13,10 +13,10 @@ This project was all about predicting house prices in different areas depend upo
 
 From this project we can learn which things affect the house price more and in some areas some facility will be not there because of some reasons. we can identify the hidden information through insights.
 ## Libraries Used
-    pandas
-    numpy
-    matplotlib
-    seaborn
+    python 3.9.7
+    pandas 1.3.4
+    numpy 1.20.3
+    seaborn 0.11.2
 
 ## Lessons Learned
  I used three different algorithams to predict this model accuracy.
