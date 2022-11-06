@@ -19,7 +19,7 @@ From this project we can learn which things affect the house price more and in s
     seaborn 0.11.2
 
 ## Lessons Learned
- I used three different algorithams to predict this model accuracy.
+ I used five different algorithams but compared with three algorithams to predict this model accuracy.
 
  EDA was the major thing for this project.
 
