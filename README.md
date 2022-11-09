@@ -4,7 +4,7 @@
 This project was all about predicting house prices in different areas depend upon the facilities available in those areas.
 
 
-## Screenshots
+
 
 ![App Screenshot](https://i.ytimg.com/vi/LvfbopVq-WE/maxresdefault.jpg)
 
